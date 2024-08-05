@@ -1,1 +1,1 @@
-# DJCRM
+# dj-crm
